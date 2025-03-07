@@ -168,21 +168,22 @@
       {
         "imgLink": "./images/portfolio/Untitleddesign.png",
         "imgLinkLg": "./images/portfolio/ilaspice1.jpg",
-        "title": "Product Design",
+        "title": "Website Development",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200",
-         "url":"wobix-bay.vercel.app"
+         "url":"https://ilas-picees.vercel.app/"
       },
       {
         "imgLink": "./images/portfolio/fimkin1.png",
         "imgLinkLg": "./images/portfolio/fimkin.jpg",
-        "title": "Website Design",
+        "title": "Website Development",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "300"
+        "delay": "300",
+         "url":"https://fimkin.vercel.app/"
       },
       {
         "imgLink": "./images/portfolio/Wobix1.png",
@@ -191,16 +192,18 @@
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "400",
+        "url":"https://wobix-bay.vercel.app/"
       },
       {
         "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Website Design",
+        "imgLinkLg": "./images/portfolio/image12.png",
+        "title": "Website Development",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "url":"https://service-landing-page-template.vercel.app/"
       },
       {
         "imgLink": "./images/portfolio/portfolio5.jpg",
