@@ -27,7 +27,7 @@
     }
   },
   "aboutData": {
-    "imgLink": "/images/adnank.jpg",
+    "imgLink": "./images/adnank.jpg",
     "cvPdf": "./images/Adnan.k -CV.pdf",
     "title": "Hi There! I'm Adnan k",
     "subtitle": "Frontend developer",
