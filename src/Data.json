@@ -166,7 +166,7 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "./images/portfolio/Untitleddesign.png",
+        "imgLink": "./images/port2/ilaspecies1.png",
         "imgLinkLg": "./images/portfolio/ilaspice1.jpg",
         "title": "Website Development",
         "subTitle": "Design / Marketing",
@@ -176,7 +176,7 @@
          "url":"https://ilas-picees.vercel.app/"
       },
       {
-        "imgLink": "./images/portfolio/fimkin1.png",
+        "imgLink": "./images/port2/fimkin1.png",
         "imgLinkLg": "./images/portfolio/fimkin.jpg",
         "title": "Website Development",
         "subTitle": "Design / Marketing",
@@ -186,7 +186,7 @@
          "url":"https://fimkin.vercel.app/"
       },
       {
-        "imgLink": "./images/portfolio/Wobix1.png",
+        "imgLink": "./images/port2/wobix1.png",
         "imgLinkLg": "./images/portfolio/wobix.png",
         "title": "Website Design",
         "subTitle": "Design / Marketing",
@@ -196,7 +196,7 @@
         "url":"https://wobix-bay.vercel.app/"
       },
       {
-        "imgLink": "./images/portfolio/wobixlandiingpags1.png",
+        "imgLink": "./images/port2/wobixlandingpage.png",
         "imgLinkLg": "./images/portfolio/wobixlandingpages.png",
         "title": "Website Development",
         "subTitle": "Design / Marketing",
@@ -206,7 +206,7 @@
         "url":"https://service-landing-page-template.vercel.app/"
       },
       {
-        "imgLink": "./images/portfolio/myportfolio1.png",
+        "imgLink": "./images/port2/ad-porfolio1.png",
         "imgLinkLg": "./images/portfolio/myportfolio.png",
         "title": "Website Design",
         "subTitle": "Design / Marketing",
@@ -216,7 +216,7 @@
         "url":"https://adnank.netlify.app/"
       },
       {
-        "imgLink": "./images/portfolio/lazza1.png",
+        "imgLink": "./images/port2/hi-span1.png",
         "imgLinkLg": "./images/portfolio/lazza.png",
         "title": "Website Design",
         "subTitle": "Design / Marketing",
