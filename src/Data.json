@@ -47,7 +47,7 @@
       },
       {
         "title": "From",
-        "info": "Shana manzil pulimbaramba taliparamba kannur"
+        "info": "Shana manzil Pulimbaramba Taliparamba Kannur"
       },
       {
         "title": "Language",
@@ -197,7 +197,7 @@
       },
       {
         "imgLink": "./images/portfolio/wobixlandiingpags1.png",
-        "imgLinkLg": "public/images/portfolio/wobixlandingpages.png",
+        "imgLinkLg": "./images/portfolio/wobixlandingpages.png",
         "title": "Website Development",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
