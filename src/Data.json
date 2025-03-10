@@ -28,7 +28,7 @@
   },
   "aboutData": {
     "imgLink": "/images/adnank.jpg",
-    "cvPdf": "/images/Adnan.K-FlowCV-Resume-20250303.pdf",
+    "cvPdf": "public/images/Adnan.K-FlowCV-Resume-20250310.pdf",
     "title": "Hi There! I'm Adnan k",
     "subtitle": "Frontend developer",
     "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations.",
@@ -196,8 +196,8 @@
         "url":"https://wobix-bay.vercel.app/"
       },
       {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/image12.png",
+        "imgLink": "./images/portfolio/wobixlandiingpags1.png",
+        "imgLinkLg": "public/images/portfolio/wobixlandingpages.png",
         "title": "Website Development",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -206,13 +206,24 @@
         "url":"https://service-landing-page-template.vercel.app/"
       },
       {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "imgLink": "./images/portfolio/myportfolio1.png",
+        "imgLinkLg": "./images/portfolio/myportfolio.png",
         "title": "Website Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "600"
+        "delay": "600",
+        "url":"https://adnank.netlify.app/"
+      },
+      {
+        "imgLink": "./images/portfolio/lazza1.png",
+        "imgLinkLg": "./images/portfolio/lazza.png",
+        "title": "Website Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200",
+        "url":"https://hispan.netlify.app/"
       },
       {
         "imgLink": "./images/portfolio/portfolio6.jpg",
@@ -222,15 +233,6 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Website Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
       },
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",
