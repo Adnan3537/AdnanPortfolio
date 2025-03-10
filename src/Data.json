@@ -28,7 +28,7 @@
   },
   "aboutData": {
     "imgLink": "/images/adnank.jpg",
-    "cvPdf": "public/images/Adnan.K-FlowCV-Resume-20250310.pdf",
+    "cvPdf": "./images/Adnan.k -CV.pdf",
     "title": "Hi There! I'm Adnan k",
     "subtitle": "Frontend developer",
     "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations.",
