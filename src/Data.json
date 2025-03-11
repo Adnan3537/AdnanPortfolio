@@ -166,7 +166,7 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "./images/port2/ilaspecies1.png",
+        "imgLink": "./images/port2/ilaspecies.png",
         "imgLinkLg": "./images/portfolio/ilaspice1.jpg",
         "title": "Website Development",
         "subTitle": "Design / Marketing",
@@ -186,7 +186,7 @@
          "url":"https://fimkin.vercel.app/"
       },
       {
-        "imgLink": "./images/port2/wobix1.png",
+        "imgLink": "./images/port2/wobix.png",
         "imgLinkLg": "./images/portfolio/wobix.png",
         "title": "Website Design",
         "subTitle": "Design / Marketing",
